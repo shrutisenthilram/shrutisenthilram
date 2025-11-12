@@ -1,4 +1,4 @@
-# Hi, I'm Shru! 👋
+## Hi, I'm Shruti! 👋
 
 I'm a Computer Science student passionate about web development, design, and open source.
 
