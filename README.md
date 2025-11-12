@@ -1,4 +1,13 @@
+## ✨ Welcome to my GitHub Profile
+
 ## Hi, I'm Shruti! 👋
+
+Here’s what I do:
+
+- 🚀 Software Developer  
+- 🎨 Designer  
+- 📚 Lifelong learner
+
 
 I'm a Computer Science student passionate about web development, design, and open source.
 
