@@ -1,5 +1,3 @@
-## ✨ Welcome to my GitHub Profile
-
 ## Hi, I'm Shruti! 👋
 
 Here’s what I do:
