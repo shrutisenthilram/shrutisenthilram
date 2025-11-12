@@ -13,6 +13,7 @@ I'm a Computer Science student passionate about web development, design, and ope
 
 ## Connect with me
 
-[![Portfolio](https://portfoliov1-git-main-shrutisenthilrams-projects.vercel.app)  
-[![LinkedIn](https://www.linkedin.com/in/shrutisenthilram/)  
-[![Instagram](https://www.instagram.com/shruutii_s_/)
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://portfoliov1-git-main-shrutisenthilrams-projects.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutisenthilram/)   
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shruutii_s_/)
+
