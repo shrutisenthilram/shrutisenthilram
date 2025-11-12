@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shru! 👋
 
-<!--
-**shrutisenthilram/shrutisenthilram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about web development, design, and open source.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript, React, Next.js
+- Python, Java
+- UI/UX design
+
+## Projects
+
+- [My Portfolio](https://shru.github.io)
+- [Awesome Project](https://github.com/shru/awesome-project)
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/shru)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat-square)](https://twitter.com/shru)
