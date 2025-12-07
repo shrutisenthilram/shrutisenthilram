@@ -1,6 +1,8 @@
 ## Hi, I'm Shruti! 👋
- a CS + Business Econ student at UCSD with a design minor — basically someone who loves building cool stuff that mixes tech and creativity.
+ a CS + Business Econ student at UCSD with a design minor 
+ 
 Right now, I’m all about AI, 3D, and making interfaces that actually feel easy and fun to use. Whether it’s automating 3D scenes with AI or crafting virtual assistants, I’m always tinkering and learning.
+
 I also enjoy:
 Writing clean code in Python, JavaScript, and C++
 Designing simple, thoughtful user experiences
